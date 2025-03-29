@@ -1,6 +1,6 @@
 import random
 
-def number_guessing_game():
+def test_number_guessing_game():
     # Generate a random number between 1 and 100
     secret_number = random.randint(1, 100)
     attempts = 0
