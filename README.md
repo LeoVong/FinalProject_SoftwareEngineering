@@ -32,10 +32,10 @@ This is an interactive command-line Number Guessing Game developed in Python. Pl
 [YouTube URL] *(Add after recording)*
 
 ## Environments
-- **Programming Language**: Python 3.x  
+- **Programming Language**: Python 3.11.5  
 - **Minimum Requirements**:  
   - Hardware: Any computer with Python installed.  
-  - Software: Python 3.x (no additional packages required).  
+  - Software: Python 3.11.5 (no additional packages required).  
 - **Required Packages**: None (uses `random` and `os` from standard library).
 
 ## Declaration
