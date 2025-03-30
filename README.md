@@ -36,7 +36,7 @@
 - **Future Plan**: Add online leaderboards, word categories (e.g., animals, food), mobile optimization.
 
 ## Demo
-[Watch the Demo on YouTube](#) *(https://www.youtube.com/)*
+*(https://www.youtube.com/)*
 
 ## Environment
 - **Programming Language**: HTML, CSS, JavaScript  
