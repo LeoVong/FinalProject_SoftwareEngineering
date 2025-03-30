@@ -15,7 +15,7 @@
   - Sprint 1: Core game setup (word unscrambling, timer, basic UI).  
   - Sprint 2: Difficulty levels, randomization, restart functionality.  
   - Sprint 3: Score board, clear scores, word list (300 words).  
-  - Sprint 4: Sound effects, unlimited skip feature, exit button, final polishing. 
+  - Sprint 4: Sound effects, unlimited skip feature, exit button, final review. 
 - **Members**:  
   - **P2304262 VONG WAI PONG (Frontend Developer)**: Oversees project, develops HTML/CSS structure (20%).  
   - **P2304469 FOK HOU IN (Backend Developer)**: Implements JavaScript logic (game mechanics, scoring, unlimited skips, exit features) (20%).  
@@ -31,8 +31,8 @@
   1. Generate a random scrambled word from a 300-word bank on demand.  
   2. Set timer based on difficulty (20-40s).  
   3. Compare user input to original word, update score; allow unlimited skipping or exiting early.  
-  4. End game when time’s up or user exits, save score history (24-hour clock).
-- **Current Status**: Fully functional demo with difficulty levels, 300+ popular words, random selection, restart, score history (24-hour clock), clear scores, sound effects, unlimited skip feature, and an exit button.  
+  4. End game when time’s up or user exits, save score history.
+- **Current Status**: Fully functional demo with difficulty levels, 300+ popular words, random selection, restart, score history, clear scores, sound effects, unlimited skip feature, and an exit button.  
 - **Future Plan**: Add online leaderboards, word categories (e.g., animals, food), mobile optimization.
 
 ## Demo
