@@ -17,11 +17,11 @@
   - Sprint 3: Score board, clear scores, word list (300 words).  
   - Sprint 4: Sound effects, unlimited skip feature, exit button, final review. 
 - **Members**:  
-  - **P2304262 VONG WAI PONG (Frontend Developer)**: Oversees project, develops HTML/CSS structure (20%).  
-  - **P2304469 FOK HOU IN (Backend Developer)**: Implements JavaScript logic (game mechanics, scoring, unlimited skips, exit features) (20%).  
-  - **P2321073 PAN YUBIN (UI/UX Designer)**: Designs and refines CSS for a basic UI (20%).  
-  - **P2321299 WU YIER (Tester & Bug Fixer)**: Tests game, ensures functionality across browsers (20%).  
-  - **P2321358 MO XUFENG (Documentation & Demo Specialist)**: Writes documentation, creates demo video (20%).
+  - **P2304262 - VONG WAI PONG (Frontend Developer)**: Oversees project, develops HTML/CSS structure (20%).  
+  - **P2304469 - FOK HOU IN (Backend Developer)**: Implements JavaScript logic (game mechanics, scoring, unlimited skips, exit features) (20%).  
+  - **P2321073 - PAN YUBIN (UI/UX Designer)**: Designs and refines CSS for a basic UI (20%).  
+  - **P2321299 - WU YIER (Tester & Bug Fixer)**: Tests game, ensures functionality across browsers (20%).  
+  - **P2321358 - MO XUFENG (Documentation & Demo Specialist)**: Writes documentation, creates demo video (20%).
 - **Schedule**:  
   - Week 1 [24 Mar-28 Mar]: Planning, basic setup, core logic.  
   - Week 2 [31 Mar-04 Apr]: Difficulty, random words, restart feature.  
