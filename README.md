@@ -1,7 +1,7 @@
 # Word Scramble Race
 
 ## Graphical Abstract
-![Game Screenshot](screenshot.png)  
+![Game Screenshot](screenshot.PNG)  
 *Single-player game where users unscramble random words tailored to difficulty, racing against a customizable timer with hints and streak bonuses.*
 
 ## Purpose of the Software
@@ -17,11 +17,11 @@
   - Sprint 3: Score board (24-hour clock with difficulty), clear scores, difficulty-specific word lists (300 words total).  
   - Sprint 4: Hint system, unlimited skips, streak multiplier, enhanced UI, sound effects, fixed word progression bug in checkAnswer, restored sound playback with error handling.  
 - **Members**:  
-  - **P2304262 - VONG WAI PONG (Frontend Developer)**: Oversees project, develops HTML/CSS structure, enhances UI, fixes word progression bug (30%).  
-  - **P2304469 - FOK HOU IN (Backend Developer)**: Implements JavaScript logic (game mechanics, scoring, hints, skips, streak, exit, sound restoration) (20%).  
-  - **P2321073 - PAN YUBIN (UI/UX Designer)**: Designs vibrant CSS, animations, and polished visuals (20%).  
-  - **P2321299 - WU YIER (Tester & Bug Fixer)**: Tests game, ensures cross-browser functionality, verifies fixes (15%).  
-  - **P2321358 - MO XUFENG (Documentation & Demo Specialist)**: Writes documentation, creates demo video (15%).
+  - **P2304262 - VONG WAI PONG (Frontend Developer)**: Oversees project, develops HTML/CSS structure, enhances UI, fixes word progression bug.  
+  - **P2304469 - FOK HOU IN (Backend Developer)**: Implements JavaScript logic (game mechanics, scoring, hints, skips, streak, exit, sound restoration).  
+  - **P2321073 - PAN YUBIN (UI/UX Designer)**: Designs vibrant CSS, animations, and polished visuals.  
+  - **P2321299 - WU YIER (Tester & Bug Fixer)**: Tests game, ensures cross-browser functionality, verifies fixes.  
+  - **P2321358 - MO XUFENG (Documentation & Demo Specialist)**: Writes documentation, creates demo video.
 - **Schedule**:  
   - Week 1 [24 Mar-28 Mar]: Planning, basic setup, core logic.  
   - Week 2 [31 Mar-04 Apr]: Difficulty, random words, restart, exit features.  
