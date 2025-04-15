@@ -42,7 +42,7 @@ https://www.youtube.com
 - **Programming Language**: HTML, CSS, JavaScript  
 - **Minimum Requirements**: Modern web browser (Chrome, Firefox, etc.)  
 - **Hardware**: Any device with a browser and audio output  
-- **Required Packages**: None (vanilla JS)  
+- **Required Packages**: None
 - **External Resources**: Google Fonts (Poppins), SoundJay for sound effects (free for non-commercial use)  
 - **Notes**: Sound effects use external URLs; replace with local files for offline use or to avoid network issues.
 
