@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Scramble Race</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Word Scramble Race</h1>
+        <p>Unscramble words against the clock to score big!</p>
+        <div id="setup">
+            <label for="difficulty">Difficulty: </label>
+            <select id="difficulty">
+                <option value="easy">Easy (40s, Short Words)</option>
+                <option value="medium">Medium (30s, Medium Words)</option>
+                <option value="hard">Hard (20s, Long Words)</option>
+            </select>
+            <button id="start-btn">Start Game</button>
+        </div>
+        <div id="game" style="display: none;">
+            <p>Time Left: <span id="timer">30</span>s</p>
+            <p>Score: <span id="score">0</span></p>
+            <p>Streak: <span id="streak">0</span> (Multiplier: <span id="multiplier">x1</span>)</p>
+            <p>Hints Left: <span id="hints-left">3</span></p>
+            <h2>Scrambled Word: <span id="scrambled-word"></span></h2>
+            <input type="text" id="user-input" placeholder="Type your answer">
+            <div class="button-group">
+                <button id="submit-btn">Submit</button>
+                <button id="skip-btn">Skip</button>
+                <button id="hint-btn">Hint</button>
+                <button id="exit-btn">Exit</button>
+            </div>
+            <p id="message"></p>
+        </div>
+        <div id="end-screen" style="display: none;">
+            <h2 id="end-message"></h2>
+            <button id="restart-btn">Play Again</button>
+            <h3>Score History</h3>
+            <ul id="score-board"></ul>
+            <button id="clear-scores-btn">Clear Scores</button>
+        </div>
+    </div>
+    <audio id="correct-sound" src="https://www.soundjay.com/buttons/beep-01a.mp3"></audio>
+    <audio id="wrong-sound" src="https://www.soundjay.com/buttons/beep-02.mp3"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
