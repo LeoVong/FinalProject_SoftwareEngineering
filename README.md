@@ -1,7 +1,7 @@
 # Word Scramble Race
 
 ## Graphical Abstract
-![Game Screenshot](Graphical Abstract.PNG)  
+![Game Screenshot](Graphical Abstract.png)  
 *Single-player game where users unscramble random words tailored to difficulty, racing against a customizable timer with hints and streak bonuses.*
 
 ## Purpose of the Software
