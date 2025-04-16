@@ -36,11 +36,11 @@
 - **Future Plan**: Add online leaderboards, word categories (e.g., animals, food), mobile optimization, and user profiles.
 
 ## Demo
-https://www.youtube.com
+TBC
 
 ## Environment
 - **Programming Language**: HTML, CSS, JavaScript  
-- **Minimum Requirements**: Modern web browser (Chrome, Firefox, etc.)  
+- **Minimum Requirements**: Modern web browser (Chrome, Firefox, Internet Explorer, etc.)  
 - **Hardware**: Any device with a browser and audio output  
 - **Required Packages**: None
 - **External Resources**: Google Fonts (Poppins), SoundJay for sound effects (free for non-commercial use)  
