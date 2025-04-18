@@ -1,5 +1,5 @@
 # (Group Name: The Anagram Avengers)
-# Web Game - Word Scramble Race
+# Web Game | Word Scramble Race |
 
 ## Graphical Abstract
 ![Game Screenshot](GraphicalAbstract.PNG)  
