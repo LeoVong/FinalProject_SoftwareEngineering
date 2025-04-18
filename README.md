@@ -1,3 +1,4 @@
+#(Group Name: The Anagram Avengers)
 # Word Scramble Race
 
 ## Graphical Abstract
