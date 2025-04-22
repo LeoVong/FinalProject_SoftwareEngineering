@@ -33,8 +33,10 @@
   2. Set timer based on difficulty (20-40s).  
   3. Compare user input (trimmed and lowercased) to original word, update score with streak multiplier, play sound feedback; allow unlimited skipping, 3 hints, or early exit; load new word after correct answer.  
   4. End game when time’s up or user exits, save score history (24-hour clock with difficulty).
-- **Current Status**: Fully functional demo with difficulty-specific word lists (300+ words), difficulty levels, restart, score history (24-hour clock with difficulty), clear scores, unlimited skip feature, exit button, 3-hint system, streak multiplier, vibrant UI, fixed word progression via improved checkAnswer function, and restored sound effects with error handling for reliable playback.  
-- **Future Plan**: Add online leaderboards, word categories (e.g., animals, food), mobile optimization, and user profiles.
+- **Current Status**:
+  Fully functional demo with difficulty-specific word lists (300+ words), difficulty levels, restart, score history (24-hour clock with difficulty), clear scores, unlimited skip feature, exit button, 3-hint system, streak multiplier, vibrant UI, fixed word progression via improved checkAnswer function, and restored sound effects with error handling for reliable playback.  
+- **Future Plan**:
+  Add online leaderboards, word categories (e.g., animals, food), mobile optimization, and user profiles.
 
 ## Demo
 https://www.youtube.com/watch?v=-IU2A4-q79E
